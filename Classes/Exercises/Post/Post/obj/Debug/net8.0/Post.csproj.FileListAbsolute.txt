@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\bin\Debug\net8.0\Post.exe
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\bin\Debug\net8.0\Post.deps.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\bin\Debug\net8.0\Post.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\bin\Debug\net8.0\Post.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\bin\Debug\net8.0\Post.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\refint\Post.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\Post.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Classes\Exercises\Post\Post\obj\Debug\net8.0\ref\Post.dll
