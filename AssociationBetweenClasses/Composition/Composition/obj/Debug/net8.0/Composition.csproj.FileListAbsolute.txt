@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\bin\Debug\net8.0\Composition.exe
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\bin\Debug\net8.0\Composition.deps.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\bin\Debug\net8.0\Composition.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\bin\Debug\net8.0\Composition.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\bin\Debug\net8.0\Composition.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\refint\Composition.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\Composition.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Association Between Classes\Composition\Composition\Composition\obj\Debug\net8.0\ref\Composition.dll
