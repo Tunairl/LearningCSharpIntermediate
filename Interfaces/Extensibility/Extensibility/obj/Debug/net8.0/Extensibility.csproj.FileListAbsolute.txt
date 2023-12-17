@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\bin\Debug\net8.0\Extensibility.exe
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\bin\Debug\net8.0\Extensibility.deps.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\bin\Debug\net8.0\Extensibility.runtimeconfig.json
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\bin\Debug\net8.0\Extensibility.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\bin\Debug\net8.0\Extensibility.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\refint\Extensibility.dll
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.pdb
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\Extensibility.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\CSharpIntermediate\Interfaces\Extensibility\Extensibility\Extensibility\obj\Debug\net8.0\ref\Extensibility.dll
