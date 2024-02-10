@@ -7,7 +7,7 @@
             Stopwatch sw = new Stopwatch();
             sw.Start();
             Thread.Sleep(1000);
-            sw.Stop();
+            //sw.Stop();
             Console.WriteLine(sw.Stop());
         }
     }
